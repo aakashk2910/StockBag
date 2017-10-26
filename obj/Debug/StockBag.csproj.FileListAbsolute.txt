@@ -1,0 +1,11 @@
+G:\C# Workbench\StockBag\StockBag\bin\Debug\StockBag.exe
+G:\C# Workbench\StockBag\StockBag\bin\Debug\StockBag.pdb
+G:\C# Workbench\StockBag\StockBag\obj\Debug\StockBag.AboutForm.resources
+G:\C# Workbench\StockBag\StockBag\obj\Debug\StockBag.AddEditStockForm.resources
+G:\C# Workbench\StockBag\StockBag\obj\Debug\StockBag.SettingsForm.resources
+G:\C# Workbench\StockBag\StockBag\obj\Debug\StockBag.StockBagMainForm.resources
+G:\C# Workbench\StockBag\StockBag\obj\Debug\StockBag.Properties.Resources.resources
+G:\C# Workbench\StockBag\StockBag\obj\Debug\StockBag.StockDetails.resources
+G:\C# Workbench\StockBag\StockBag\obj\Debug\StockBag.csproj.GenerateResource.Cache
+G:\C# Workbench\StockBag\StockBag\obj\Debug\StockBag.exe
+G:\C# Workbench\StockBag\StockBag\obj\Debug\StockBag.pdb

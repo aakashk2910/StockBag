@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?><StockBagData><Portfolio><Stock Code="FB" Name="stock name" BuyPrice="0.00" BuyQuantity="0" />
+<Stock Code="GOOG" Name="Alphabet Inc." BuyPrice="0.00" BuyQuantity="0" />
+<Stock Code="F" Name="Ford Motors" BuyPrice="0.00" BuyQuantity="400" />
+</Portfolio>
+<WatchList><Stock Code="NSEC" Name="National Security group" TargetPrice="0.00" />
+</WatchList>
+</StockBagData>
